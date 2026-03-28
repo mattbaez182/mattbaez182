@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Matias Baez Banner" width="100%" />
+</p>
 
-<img width="1536" height="1024" alt="ChatGPT Image 28 feb 2026, 16_02_31" src="https://github.com/user-attachments/assets/90dc0ae9-9dc1-4afb-9063-b558eb88dcfc" />
 
 # <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-light-skin-tone_1f44b-1f3fc_1f3fc.gif" width="30px"> Hola, soy Matías Baez
 
