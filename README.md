@@ -11,7 +11,9 @@
 🤖 AI-Assisted Development  
 🐧 Linux User  
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Web+%2B+IA+%2B+Blockchain;Construyendo+productos+con+impacto" alt="Typing SVG" />
+</p>
 
 ## 🚀 Sobre mí
 Actualmente estoy cursando un Máster en Desarrollo Web Full Stack, donde he desarrollado una base sólida en programación y buenas prácticas de desarrollo. 
