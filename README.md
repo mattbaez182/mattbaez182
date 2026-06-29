@@ -26,7 +26,7 @@ Utilizo Git y GitHub como sistema de control de versiones para mantener proyecto
 
 Entiendo la IA como una herramienta profesional, no como sustituto del conocimiento. 
 
-Actualmente estoy ampliando mis conocimientos en Frontend desarrollando bases sólidas en HTML y estructura web semántica.
+Actualmente estoy ampliando mis conocimientos en Frontend desarrollando bases sólidas Java Script.
 
 Fuera del código, me apasiona la música rock, heavy metal y el deporte lo que refleja mi energía, enfoque y autenticidad, valores que también aplico en el ámbito profesional. 
 
@@ -139,15 +139,9 @@ In the future, I want to specialize in:
 
 ## 🎯 Objetivo Profesional
 
-Busco mi primera oportunidad profesional como desarrollador donde pueda aportar disciplina, mentalidad analítica y enfoque en calidad de código.
+Mi desarrolo personal y profesional como desarrollador donde pueda aportar disciplina, mentalidad analítica y enfoque en calidad de código.
 
 Mi meta es crecer como Full Stack Developer con fuerte orientación backend y evolucionar hacia arquitecturas modernas y blockchain.
-
-🎯 Professional Objective
-
-I'm looking for my first professional opportunity as a developer where I can contribute discipline, an analytical mindset, and a focus on code quality.
-
-My goal is to grow as a Full Stack Developer with a strong backend focus and evolve towards modern architectures and blockchain.
 
 ---
 
